@@ -4,9 +4,6 @@
 
 This project analyzes traffic crash data in San Jose, sourced from the San Jose Open Data Portal. The goal is to extract insights by conducting Exploratory Data Analysis (EDA), creating visualizations, and integrating findings into Power BI, Tableau, and a React-based web application.
 
-📌 Google Colab Notebook: Crash Analysis Notebook
-📌 BigQuery Dataset: San Jose Crashes Dataset
-
 🎯 Objectives & Research Questions
 
 This project answers the following key questions:
@@ -19,6 +16,7 @@ This project answers the following key questions:
 Data was extracted from Google BigQuery and processed using Pandas, NumPy, and Matplotlib in Google Colab. The cleaned dataset was stored back in BigQuery for further analysis.
 
 🔗 Processed Dataset: BigQuery Link
+https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1scrashes-in-san-jose!2sSUD_1!3sprocessed_data
 
 📌 Key Data Processing Steps:
 
